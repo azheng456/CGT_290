@@ -13,6 +13,3 @@ Week 5: Pandas
 Week 6: Matplotlib and Seaborn
 
 Week 7: Review of Week 2
-
-hi
-hi
