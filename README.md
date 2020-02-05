@@ -8,8 +8,8 @@ Week 3: Python: OOP (object-oriented programming), file, OS (Operating System In
 
 Week 4: Numpy
 
-Week 5: Pandas
+Week 5: Matplotlib and Seaborn
 
-Week 6: Matplotlib and Seaborn
+Week 6: Pandas
 
 Week 7: Review of Week 2
